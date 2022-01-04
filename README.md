@@ -10,7 +10,6 @@
 ![image](https://user-images.githubusercontent.com/19833216/148027179-802dabbf-ade8-44e8-8b09-32cd6c2bf735.png)
 
 ## 3. Object Detection 실습
-[(Faster RCNN 모델로 추론 해보기)](https://github.com/hwanhuh/LG_AI_Lab/blob/main/Adversarial_Attack.ipynb)
-
-[(Faster RCNN 모델을 확장하여 tracking에 적용해보기)](https://github.com/hwanhuh/LG_AI_Lab/blob/main/Adversarial_Attack.ipynb)
+[(3.1. Faster RCNN 모델로 추론 해보기)](https://github.com/hwanhuh/LG_AI_Lab/blob/main/Adversarial_Attack.ipynb)
+[(3.2. Faster RCNN 모델을 확장하여 tracking에 적용해보기)](https://github.com/hwanhuh/LG_AI_Lab/blob/main/Adversarial_Attack.ipynb)
 ![image](https://user-images.githubusercontent.com/19833216/148028010-4fd41b0b-962e-42b7-9add-e5f91768c456.png)
