@@ -1,4 +1,4 @@
-# LG_AI_Lab
+# LG AI Workshop Lab Session
 
 ## 1. GAN 실습
 [(Image Editing with StyleCLIP)](https://github.com/hwanhuh/LG_AI_Lab/blob/main/Image_Editing_with_StyleCLIP.ipynb)
