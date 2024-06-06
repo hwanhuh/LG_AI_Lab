@@ -1,5 +1,11 @@
 # LG AI Workshop Lab Session
 
+This project contains the *official* practice code for the 2022 Korea University - LG Electronics AI Workshop.
+The repo deals with 3 topics
+1. Image manipulation using StyleCLIP,
+2. Adversarial Attack, 
+3. Object Detection.
+
 ## 1. GAN 실습
 [GAN과 StyleCLIP을 활용한 이미지 생성 및 편집하기](https://github.com/hwanhuh/LG_AI_Lab/blob/main/Image_Editing_with_StyleCLIP.ipynb)
 
